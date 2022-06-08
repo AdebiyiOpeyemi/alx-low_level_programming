@@ -63,6 +63,12 @@ int print_last_digit(int);
  */
 void jack_bauer(void);
 
+/**
+ * times_table - prints multiplication table
+ * Return: null
+ */
+void times_table(void);
+
 
 
 #endif
