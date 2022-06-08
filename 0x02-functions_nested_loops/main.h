@@ -43,6 +43,13 @@ int _isalpha(int c);
  */
 int print_sign(int n);
 
+/**
+ * _abs - prints the absolute value of a number
+ * @n: character to check
+ * Return: always n
+ */
+int _abs(int);
+
 
 
 #endif
