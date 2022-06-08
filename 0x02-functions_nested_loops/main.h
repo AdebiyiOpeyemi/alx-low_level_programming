@@ -7,11 +7,20 @@
  */
 int _putchar(char ch);
 
-void print_alphabet(void);
 /**
  * print_alphabet - prints lower case letters
  *
  * Return: Always 0
  */
+void print_alphabet(void);
+
+
+/**
+ * print_alphabet_x10 - prints lower case letters 10 times
+ *
+ * Return: Always 0
+ */
+void print_alphabet_x10(void);
+
 
 #endif
