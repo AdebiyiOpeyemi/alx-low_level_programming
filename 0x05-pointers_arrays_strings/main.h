@@ -23,4 +23,11 @@ void print_array(int *a, int n);
 
 char *_strcpy(char *dest, char *src);
 
+int search_sign(char *s);
+
+int search_index(char *s);
+
+int _atoi(char *s);
+
+
 #endif
