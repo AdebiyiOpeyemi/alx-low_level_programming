@@ -24,7 +24,7 @@ int _strlen(char *s)
 char *_strcat(char *dest, char *src)
 {
 	int i, j;
-	
+
 	i = _strlen(dest);
 	for (j = 0 ; src[j] != '\0' ; i++, j++)
 	{
