@@ -25,4 +25,11 @@ char *create_array(unsigned int size, char c);
  * Return: pointer to the duplicated string
  */
 char *_strdup(char *str);
+/**
+ * str_concat - concatenates two strings
+ * @s1: string to concat to
+ * @s2: string to concat
+ * Return: pointer to concatenated string or NULL on failure
+ */
+char *str_concat(char *s1, char *s2);
 #endif
