@@ -19,4 +19,20 @@ void init_dog(struct dog *d, char *name, float age, char *owner);
 void print_dog(struct dog *d);
 
 typedef struct dog dog_t;
+
+dog_t *new_dog(char *name, float age, char *owner);
+/**
+ * _strlen - calculate the length of string
+ * @str: string to check
+ * Return: length
+ */
+int _strlen(char *str);
+
+/**
+ * _strcpy - copy a string from one destination to another
+ * @dest: destination
+ * @src: source
+ * Return: pointer to destination
+ */
+char *_strcpy(char *dest, char *src);
 #endif
