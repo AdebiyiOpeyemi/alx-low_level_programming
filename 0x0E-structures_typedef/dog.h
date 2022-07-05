@@ -35,4 +35,9 @@ int _strlen(char *str);
  * Return: pointer to destination
  */
 char *_strcpy(char *dest, char *src);
+/**
+ * free_dog - frees space allocated to dog
+ * @d: struct pointer
+ */ 
+void free_dog(dog_t *d);
 #endif
