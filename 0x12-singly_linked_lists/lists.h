@@ -1,7 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
 /**
- * strucr list_s - singly linked list
+ * struct list_s - singly linked list
  * @str: malloc'ed string
  * @len: length of the string
  * @next: points to the next node
