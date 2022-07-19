@@ -9,4 +9,5 @@
 7. 6-pop_listint.c - deletes the head node of a linked list and return the data.
 8. 7-get_nodeint.c - find the nth node of a linked list.
 9. 8-sum_listint.c - sums all the data of a linked list.
+10. 9-insert_nodeint.c - inserts a new node at given index.
 
