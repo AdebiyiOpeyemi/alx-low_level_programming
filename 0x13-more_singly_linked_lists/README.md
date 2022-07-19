@@ -6,3 +6,6 @@
 4. 3-add_nodeint_end - adds a new node at the end of linked list.
 5. 4-free_listint.c - frees allocated memory of linked list.
 6. 5-free_listint2.c - sets the head to NULL.
+7. 6-pop_listint.c - deletes the head node of a linked list and return the data.
+8. 7-get_nodeint.c - find the nth node of a linked list.
+
