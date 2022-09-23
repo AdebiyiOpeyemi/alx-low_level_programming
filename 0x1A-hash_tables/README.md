@@ -7,3 +7,5 @@ This directory contain file that implements above mentioned Hash Table.
 ## File Description
 - hash_tables.h: header file of the Hash Table.
 - 0-hash_table_create.c: creates a hash table.
+- 1-djb2.c: creates a hash function implementing the djb2 algorithm.
+
