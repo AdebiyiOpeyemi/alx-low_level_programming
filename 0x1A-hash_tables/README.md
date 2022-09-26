@@ -12,4 +12,13 @@ This directory contain file that implements above mentioned Hash Table.
 - 3-hash_table_set.c: adds an element to the hash table.
 - 4-hash_table_get.c: retrieves a value associated with a key in a hash table.
 - 5-hash_table_print.c: prints a hash table.
+- 6-hash_table_delete.c: deletes a hash table.
 
+## Environments
+- Language: C
+- OS: Ubuntu 20.04
+- Compiler: gcc
+- Code Style: Betty Style
+
+## Author
+- [Opeyemi](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Ba3NCXyzLR3ex4H9XExAWtg%3D%3D)
